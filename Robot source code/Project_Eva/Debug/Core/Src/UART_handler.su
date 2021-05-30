@@ -1,0 +1,5 @@
+UART_handler.c:20:6:Interrupt_On_Character	8	static
+UART_handler.c:53:5:get_Throttle	4	static
+UART_handler.c:63:5:get_angle	4	static
+UART_handler.c:70:5:Remote_Control	4	static
+UART_handler.c:73:5:UART_Halt_Status	4	static

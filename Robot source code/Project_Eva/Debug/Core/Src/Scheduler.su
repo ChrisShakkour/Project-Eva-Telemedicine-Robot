@@ -1,0 +1,5 @@
+Scheduler.c:28:6:scheduler	8	static
+Scheduler.c:147:5:Scheduler_Halt_Status	4	static
+Scheduler.c:151:5:Scheduler_Control	4	static
+Scheduler.c:155:5:get_Scheduler_Speed	4	static
+Scheduler.c:159:5:get_Scheduler_Angle	4	static

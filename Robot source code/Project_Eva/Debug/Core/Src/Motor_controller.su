@@ -1,0 +1,11 @@
+Motor_controller.c:35:6:calculate_Gaussian_Transform	72	static
+Motor_controller.c:48:5:Get_Halt_Status	16	static
+Motor_controller.c:56:6:Kinematics_Controler	48	static
+Motor_controller.c:126:5:Get_Gradiant_Trottle	16	static
+Motor_controller.c:147:6:Enable_Motor	16	static
+Motor_controller.c:157:6:Disable_Motor	16	static
+Motor_controller.c:168:6:Set_Right_Motor_Direction	16	static
+Motor_controller.c:179:6:Set_Left_Motor_Direction	16	static
+Motor_controller.c:189:6:Set_Motor_Speed	16	static
+Motor_controller.c:199:6:Initiate_PWM_Signal	16	static
+Motor_controller.c:209:6:Shutdown_PWM_Signal	16	static

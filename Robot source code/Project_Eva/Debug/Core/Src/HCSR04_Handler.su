@@ -1,0 +1,6 @@
+HCSR04_Handler.c:18:6:HCSR06_Capture_Handler	16	static
+HCSR04_Handler.c:42:6:HCSR06_channel_Handler	32	static
+HCSR04_Handler.c:87:5:get_Distance_Data	16	static
+HCSR04_Handler.c:106:5:get_sensor_dist	16	static
+HCSR04_Handler.c:110:6:Initiate_Sensor_Timers	8	static
+HCSR04_Handler.c:125:6:disable_10us_Timer	8	static
